@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9658" started-at="2018-07-06T09:48:48Z" finished-at="2018-07-06T09:48:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9658" started-at="2018-07-06T09:48:48Z" finished-at="2018-07-06T09:48:57Z">
+      <class name="TestNG.PassingValueToPerameter">
+        <test-method status="PASS" signature="parameterTest(java.lang.String)[pri:0, instance:TestNG.PassingValueToPerameter@28feb3fa]" name="parameterTest" duration-ms="9643" started-at="2018-07-06T15:18:48Z" finished-at="2018-07-06T15:18:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sujith Vadlani]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parameterTest -->
+      </class> <!-- TestNG.PassingValueToPerameter -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
